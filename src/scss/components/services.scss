@@ -1,0 +1,30 @@
+.services {
+  .service-box {
+    margin-bottom: 60px;
+    .service-title {
+      text-align: center;
+      h4 {
+        font-size: 34px;
+        font-weight: 600;
+        color: #3b6088;
+      }
+      img {
+        max-width: 350px;
+        aspect-ratio: 1/1;
+        object-fit: contain;
+      }
+    }
+    .service-feature {
+      margin-bottom: 30px;
+      h5 {
+        font-size: 25px;
+        margin-bottom: 18px;
+      }
+      p {
+        font-size: 15px;
+        color: #808080;
+      }
+    }
+
+  }
+}

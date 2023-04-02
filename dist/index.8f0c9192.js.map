@@ -1,0 +1,1 @@
+{"mappings":"AAAA,KAAK,IAAI,CAAC,gBAAgB;IACxB,SAAS;IACT,GAAG;IACH,UAAU;AACZ","sources":["src/js/app.js"],"sourcesContent":["gsap.from(\".banner_desc\", {\r\n  opacity: 0,\r\n  y: 100,\r\n  duration: 1\r\n});"],"names":[],"version":3,"file":"index.8f0c9192.js.map","sourceRoot":"/__parcel_source_root/"}
